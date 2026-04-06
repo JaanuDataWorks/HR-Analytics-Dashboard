@@ -37,4 +37,4 @@ The dashboard analyzes employee attrition across multiple dimensions:
 This dashboard helps HR teams understand workforce trends and identify areas where employee retention strategies can be improved.
 
 ## Dashboard Preview
-![HR Dashboard](dashboard.png)
+[HR Dashboard](https://github.com/JaanuDataWorks/HR-Analytics-Dashboard/blob/main/dashboard.png)
